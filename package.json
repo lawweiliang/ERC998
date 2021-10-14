@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "dotenv": "^10.0.0"
+  },
+  "name": "nftproject",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawweiliang/nftproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawweiliang/nftproject/issues"
+  },
+  "homepage": "https://github.com/lawweiliang/nftproject#readme",
+  "description": "",
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
